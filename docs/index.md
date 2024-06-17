@@ -15,7 +15,7 @@ hero:
       link: /java/index
 
 features:
-  - title: Feature A
+  - title: Java A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
