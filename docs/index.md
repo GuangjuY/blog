@@ -10,12 +10,9 @@ hero:
     - theme: brand
       text: English
       link: /english/index
-    - theme: alt
-      text: Java
-      link: /java/index
-
+      
 features:
-  - title: Java A
+  - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
