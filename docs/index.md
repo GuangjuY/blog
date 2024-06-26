@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "我的博客"
+  name: "我的博客111"
   text: "学习英语使用"
   tagline: My great project tagline
   actions:
